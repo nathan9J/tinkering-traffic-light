@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-// Author:Njacob
 
-=======
-
-// Author:Ixtabella
->>>>>>> refs/remotes/joonyeechuah/master
 
 #define   LED_1   6
 #define   LED_2   10
